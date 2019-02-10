@@ -1,0 +1,547 @@
+{
+    "name": "Programming2",
+    "children": [
+        {
+            "name": "Programming",
+            "children": [
+                {
+                    "name": "Programming",
+                    "children": [
+                        {
+                            "name": "Programming",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Programming",
+                            "size": 3812
+                        },
+                        {
+                            "name": "Programming",
+                            "size": 6714
+                        },
+                        {
+                            "name": "Programming",
+                            "size": 743
+                        }
+                    ]
+                },
+                {
+                    "name": "Students",
+                    "children": [
+                        {
+                            "name": "Liam",
+                            "size": 3534
+                        },
+                        {
+                            "name": "Nefeli",
+                            "size": 5731
+                        },
+                        {
+                            "name": "Aziza",
+                            "size": 7840
+                        },
+                        {
+                            "name": "Andrei",
+                            "size": 5914
+                        },
+                        {
+                            "name": "Jovan",
+                            "size": 3416
+                        }
+                    ]
+                },
+                {
+                    "name": "teacher",
+                    "children": [
+                        {
+                            "name": "Peter",
+                            "size": 7074
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "students",
+            "children": [
+                {
+                    "name": "VictorB",
+                    "size": 17010
+                },
+                {
+                    "name": "Naima",
+                    "size": 5842
+                },
+                {
+                    "name": "students",
+                    "children": [
+                        {
+                            "name": "Veronika",
+                            "size": 1983
+                        },
+                        {
+                            "name": "Malin",
+                            "size": 2047
+                        },
+                        {
+                            "name": "Felix",
+                            "size": 1375
+                        },
+                        {
+                            "name": "Snezhana",
+                            "size": 8746
+                        },
+                        {
+                            "name": "Denisa",
+                            "size": 2202
+                        },
+                        {
+                            "name": "Therese",
+                            "size": 1382
+                        },
+                        {
+                            "name": "Mounika",
+                            "size": 1629
+                        },
+                        {
+                            "name": "Anton",
+                            "size": 1675
+                        },
+                        {
+                            "name": "Fariborz",
+                            "size": 2042
+                        }
+                    ]
+                },
+                {
+                    "name": "Johan",
+                    "size": 1041
+                },
+                {
+                    "name": "Catherine",
+                    "size": 5176
+                },
+                {
+                    "name": "Lin",
+                    "size": 449
+                },
+                {
+                    "name": "Mihhail",
+                    "size": 5593
+                },
+                {
+                    "name": "Josefine",
+                    "size": 5534
+                },
+                {
+                    "name": "Melika",
+                    "size": 9201
+                },
+                {
+                    "name": "VictorM",
+                    "size": 19975
+                },
+                {
+                    "name": "Marija",
+                    "size": 1116
+                },
+                {
+                    "name": "Richard",
+                    "size": 6006
+                }
+            ]
+        },
+        {
+            "name": "students",
+            "children": [
+                {
+                    "name": "students",
+                    "children": [
+                        {
+                            "name": "David",
+                            "size": 721
+                        },
+                        {
+                            "name": "Jeppe",
+                            "size": 4294
+                        },
+                        {
+                            "name": "Caleb",
+                            "size": 9800
+                        },
+                        {
+                            "name": "Kornelia",
+                            "size": 1314
+                        },
+                        {
+                            "name": "Zakiya",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "Viviana",
+                    "size": 1759
+                },
+                {
+                    "name": "Monica",
+                    "size": 2165
+                },
+                {
+                    "name": "Tirsa",
+                    "size": 586
+                },
+                {
+                    "name": "Julija",
+                    "size": 3331
+                },
+                {
+                    "name": "Bahr",
+                    "size": 772
+                },
+                {
+                    "name": "SimonS",
+                    "size": 3322
+                }
+            ]
+        },
+        {
+            "name": "students",
+            "children": [
+                {
+                    "name": "Kim",
+                    "size": 8833
+                },
+                {
+                    "name": "Patrik",
+                    "size": 1732
+                },
+                {
+                    "name": "Louis",
+                    "size": 3623
+                },
+                {
+                    "name": "Klara",
+                    "size": 10066
+                }
+            ]
+        },
+        {
+            "name": "teacher",
+            "children": [
+                {
+                    "name": "Peter",
+                    "size": 4116
+                }
+            ]
+        },
+        {
+            "name": "students",
+            "children": [
+                {
+                    "name": "SimonU",
+                    "size": 1082
+                },
+                {
+                    "name": "Habib",
+                    "size": 1336
+                },
+                {
+                    "name": "Michael",
+                    "size": 319
+                },
+                {
+                    "name": "Martin",
+                    "size": 10498
+                },
+                {
+                    "name": "Weronika",
+                    "size": 2822
+                },
+                {
+                    "name": "Georgi",
+                    "size": 9983
+                },
+                {
+                    "name": "Jeppe",
+                    "size": 2213
+                },
+                {
+                    "name": "Manuel",
+                    "size": 1681
+                }
+            ]
+        },
+        {
+            "name": "Programming",
+            "children": [
+                {
+                    "name": "Programming",
+                    "children": [
+                        {
+                            "name": "Programming",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Programming",
+                            "size": 3812
+                        },
+                        {
+                            "name": "Programming",
+                            "size": 6714
+                        },
+                        {
+                            "name": "Programming",
+                            "size": 743
+                        }
+                    ]
+                },
+                {
+                    "name": "Students",
+                    "children": [
+                        {
+                            "name": "Georgi",
+                            "size": 3534
+                        },
+                        {
+                            "name": "Weronika",
+                            "size": 5731
+                        },
+                        {
+                            "name": "Martin",
+                            "size": 7840
+                        },
+                        {
+                            "name": "Michael",
+                            "size": 5914
+                        },
+                        {
+                            "name": "Habib",
+                            "size": 3416
+                        }
+                    ]
+                },
+                {
+                    "name": "teacher",
+                    "children": [
+                        {
+                            "name": "Peter",
+                            "size": 7074
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "students",
+            "children": [
+                {
+                    "name": "SimonU",
+                    "size": 17010
+                },
+                {
+                    "name": "Klara",
+                    "size": 5842
+                },
+                {
+                    "name": "students",
+                    "children": [
+                        {
+                            "name": "Louis",
+                            "size": 1983
+                        },
+                        {
+                            "name": "Patrik",
+                            "size": 2047
+                        },
+                        {
+                            "name": "Kim",
+                            "size": 1375
+                        },
+                        {
+                            "name": "SimonS",
+                            "size": 8746
+                        },
+                        {
+                            "name": "Bahr",
+                            "size": 2202
+                        },
+                        {
+                            "name": "Julija",
+                            "size": 1382
+                        },
+                        {
+                            "name": "Tirsa",
+                            "size": 1629
+                        },
+                        {
+                            "name": "Monica",
+                            "size": 1675
+                        },
+                        {
+                            "name": "Viviana",
+                            "size": 2042
+                        }
+                    ]
+                },
+                {
+                    "name": "Zakiya",
+                    "size": 1041
+                },
+                {
+                    "name": "Kornelia",
+                    "size": 5176
+                },
+                {
+                    "name": "Caleb",
+                    "size": 449
+                },
+                {
+                    "name": "Tirsa",
+                    "size": 5593
+                },
+                {
+                    "name": "David",
+                    "size": 5534
+                },
+                {
+                    "name": "Richard",
+                    "size": 9201
+                },
+                {
+                    "name": "Marija",
+                    "size": 19975
+                },
+                {
+                    "name": "VictorM",
+                    "size": 1116
+                },
+                {
+                    "name": "Melika",
+                    "size": 6006
+                }
+            ]
+        },
+        {
+            "name": "students",
+            "children": [
+                {
+                    "name": "students",
+                    "children": [
+                        {
+                            "name": "Josefine",
+                            "size": 721
+                        },
+                        {
+                            "name": "Mihhail",
+                            "size": 4294
+                        },
+                        {
+                            "name": "Lin",
+                            "size": 9800
+                        },
+                        {
+                            "name": "Cathrine",
+                            "size": 1314
+                        },
+                        {
+                            "name": "Johan",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "Farbod",
+                    "size": 1759
+                },
+                {
+                    "name": "Diana",
+                    "size": 2165
+                },
+                {
+                    "name": "Fariborz",
+                    "size": 586
+                },
+                {
+                    "name": "Anton",
+                    "size": 3331
+                },
+                {
+                    "name": "Mounika",
+                    "size": 772
+                },
+                {
+                    "name": "Therese",
+                    "size": 3322
+                }
+            ]
+        },
+        {
+            "name": "students",
+            "children": [
+                {
+                    "name": "Denisa",
+                    "size": 8833
+                },
+                {
+                    "name": "Snezhana",
+                    "size": 1732
+                },
+                {
+                    "name": "Felix",
+                    "size": 3623
+                },
+                {
+                    "name": "Malin",
+                    "size": 10066
+                }
+            ]
+        },
+        {
+            "name": "teacher",
+            "children": [
+                {
+                    "name": "Peter",
+                    "size": 4116
+                }
+            ]
+        },
+        {
+            "name": "students",
+            "children": [
+                {
+                    "name": "Veronika",
+                    "size": 1082
+                },
+                {
+                    "name": "Manuel",
+                    "size": 1336
+                },
+                {
+                    "name": "VictorB",
+                    "size": 319
+                },
+                {
+                    "name": "Jovan",
+                    "size": 10498
+                },
+                {
+                    "name": "Andrei",
+                    "size": 2822
+                },
+                {
+                    "name": "Aziza",
+                    "size": 9983
+                },
+                {
+                    "name": "Nefeli",
+                    "size": 2213
+                },
+                {
+                    "name": "Liam",
+                    "size": 1681
+                }
+            ]
+        }
+    ]
+}
