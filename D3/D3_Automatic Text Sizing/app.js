@@ -56,7 +56,7 @@ I got the foundation of code from: https://bl.ocks.org/mbostock/1846692
 
     node.append("text")                           //appends text to the node
       .text(function (d) { return d.name; })      //the text that appears will be the data.name from the json file
-      .style("font-family", "Sonsie One")         //styles the font taken from google fonts
+      .style("font-family", "Fjalla One")         //styles the font taken from google fonts
       .style("fill", "black")
       .style("font-size", function (d) { return Math.min(2 * d.r, (2 * d.r - 4) / this.getComputedTextLength() * 24) + "px"; })   //sets font size
       .attr("dy", ".5em");                         //shifts the text along the y-axis 

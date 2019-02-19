@@ -67,3 +67,6 @@ Mouse Events: D3 uses the syntax selection.on(type[,listener]) to add or remove 
 example of using mouse events to change the styling of the stroke color when the mouse is over or off of an element
     - .on("mouseover", function(){d3.select(this).style("stroke", "black");})
     - .on("mouseout", function(){d3.select(this).style("stroke", "white");});
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
